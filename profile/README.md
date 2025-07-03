@@ -1,4 +1,4 @@
-# Welcome to the Mumbai Flood App ([mumbaiflood.in](https://www.mumbaiflood.in)
+# Welcome to the Mumbai Flood App ([mumbaiflood.in](https://www.mumbaiflood.in))
 
 We are a team of students, faculty, and staff from the Centre for Climate Studies at IIT Bombay. Our mission is to develop an rainfall forecasting and flood monitoring system to help Mumbai adapt to its persistent monsoon flooding.
 
